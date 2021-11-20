@@ -1,6 +1,3 @@
-//Dijkstra's algorithm solver
-//By Mostafa Dahshan <mdahshan@outlook.com>
-
 var svg = document.getElementById('shortestPathSvg'),
     gedge = document.getElementById('gedge'),
     gvertex = document.getElementById('gvertex'),
